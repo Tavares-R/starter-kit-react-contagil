@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@govbr-ds/core": "^3.7.0",
+    "@govbr-ds/webcomponents": "^2.0.0",
+    "@govbr-ds/webcomponents-react": "^2.0.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
